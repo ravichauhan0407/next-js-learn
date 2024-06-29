@@ -31,3 +31,11 @@ body {
     text-wrap: balance;
   }
 }
+
+.theme-bg{
+  background: linear-gradient(90deg, #f9572a, #ff9b05)
+}
+
+.theme-color{
+  color:  #f9572a
+}
